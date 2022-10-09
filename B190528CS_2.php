@@ -77,7 +77,7 @@
                     . "</td>";
                 }
             }
-            echo "<td><button type='button' class = 'btn btn-warning'onclick='myfnc()'><img style='height:15px;width:20px;' src='/Assignment/edit.png' alt='Submit'></button></td>";
+            echo "<td><button type='button' class = 'btn btn-warning'onclick='myfnc()'><img style='height:15px;width:20px;' src='./edit.png' alt='Submit'></button></td>";
             echo "</tr> \n";
 			$count+=1;
         }
@@ -95,7 +95,7 @@
 
 
 function myfnc(){
-    window.open('/Assignment/B190528CS_1.php','_self');
+    window.open('./B190528CS_1.php','_self');
 }
 </script>
 
