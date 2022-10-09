@@ -239,7 +239,7 @@ if(isset($_POST['update'])){
                <!-- <input type="submit" name="delete" class="btn btn-danger" value="Delete" />
                <input type="submit" name="search" class="btn btn-success" value="Search" /> -->
                <input type="submit" name="update" class="btn btn-warning" value="Update" />
-               <button type="button" class="btn btn-primary" onclick="window.open('/Assignment/B190528CS_2.php','_self')">Display</button>
+               <button type="button" class="btn btn-primary" onclick="window.open('./B190528CS_2.php','_self')">Display</button>
           </div>
     </div>
     </form>
