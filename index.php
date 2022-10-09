@@ -28,7 +28,7 @@ $headers = getallheaders();
             Click Below
         </h1>
         <span>
-        <button class="align-middle" onclick="window.open('/Assignment/B190528CS_1.php','_self')">click me</button>
+        <button class="align-middle" onclick="window.open('./B190528CS_1.php','_self')">click me</button>
 </span>
     </div>
    </p>
